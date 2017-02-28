@@ -1,0 +1,19 @@
+eraseme
+
+# project release file
+/*.war
+**target/
+lib
+screens
+
+# IDE support files
+**/.launch
+classpath
+.project
+.settings
+.checkstyle
+*.ipr
+*.iml
+*.iws
+.idea
+
